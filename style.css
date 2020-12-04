@@ -21,6 +21,10 @@ body {
   padding: 50px;
 }
 
+.container p {
+  text-align: justify;
+}
+
 .container.show-nav {
   transform: rotate(-20deg);
 }
